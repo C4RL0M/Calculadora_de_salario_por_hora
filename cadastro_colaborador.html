@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<body>
+
+<div class="w3-card-4">
+    <div class="w3-container w3-brown">
+        <h2>Cadastro Colaborador</h2>
+    </div>
+    <form method="post" class="w3-container" action="cadastro_colaborador.php">
+        <p><label class="w3-text-brown" for="nome">Nome</label> <input class="w3-input w3-border w3-sand" type="text" name="nome" id="nome" maxlength="30" required/></p>
+        <p><label class="w3-text-brown" for="matricula">Matrícula</label> <input class="w3-input w3-border w3-sand" type="text" name="matricula" id="matricula" maxlength="30" required/></p>
+        <p><label class="w3-text-brown" for="nascimento">Nascimento</label> <input class="w3-input w3-border w3-sand" type="text" name="nascimento" id="nascimento" maxlength="30" required/></p>
+        <p><label class="w3-text-brown" for="email">Email</label> <input class="w3-input w3-border w3-sand" type="email" name="email" id="email" maxlength="40" required/></p>
+        <p><label class="w3-text-brown" for="salariohora">Valor da hora</label> <input class="w3-input w3-border w3-sand" type="text" name="salariohora" id="salariohora" maxlength="20" required/></p>
+        <p>
+            <input class="w3-btn w3-brown" type="button" onclick="window.open('index.html', '_self')" value="Voltar"/>
+            <input class="w3-btn w3-brown" name="submit" type="submit" value="calcular"/>
+        </p>
+    </form>
+</div>
+</body>
+</html>

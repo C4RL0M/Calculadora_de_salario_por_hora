@@ -1,0 +1,17 @@
+1. Desenvolver um sistema simples em PHP puro, versão 5.6 em que seja possível cadastrar os seguintes dados do colaborador: 
+
+nome
+matrícula
+data de nascimento
+email
+salário hora. 
+
+Os campos deverão estar mascarados e validados nos formatos correspondentes. Mensalmente é selecionado o colaborador, mês e ano de referência e são lançadas as horas trabalhadas. 
+
+O sistema calcula o valor a receber dos colaboradores em base a essas informações. 
+
+Há a necessidade de controlar se cada lançamento já está quitado ou não e respectiva data de pagamento.
+
+Enviar código fonte, script, arquivos necessários etc. para avaliação.
+
+Informar passo a passo da instalação e replicação do ambiente.
