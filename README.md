@@ -1,11 +1,11 @@
-## 🎯 Mercurio System
+## 🎯 System
 
 Sistema desenvolvido com PHP e HTML e JS.
 
 
 ## 🎯 Objetivo do projeto
 
-Foi realizado este projeto com o intuito de aplicar os requisitos solicitados no processo de seleção!
+Foi realizado este projeto com o intuito de aplicar um cálculo do salario em cima das horas trabalhadas com o valor da hora do funcionário!
 
 ## ⚙️ Instalação
 
@@ -24,12 +24,12 @@ Veja abaixo uma foto do projeto.
 
 # Terceira table : 
 
-- ![Imagem] (https://github.com/C4RL0M/salario/blob/main/img/list%203.png)
+- ![Imagem](https://github.com/C4RL0M/salario/blob/main/img/list%203.png)
 
 ## Continuando:
 
 ```bash
-# Clone o aquivo enviado por e-mail!
+# Clone o aquivo.
 
 # Tenha em sua máquina instalado o xampp.
 
